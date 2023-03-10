@@ -1,1 +1,1 @@
-info about project
+Author Sergienko Andrey
